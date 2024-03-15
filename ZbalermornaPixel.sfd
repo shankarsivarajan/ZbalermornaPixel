@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1358538608
-ModificationTime: 1710474163
+ModificationTime: 1710535702
 PfmFamily: 65
 TTFWeight: 400
 TTFWidth: 5
@@ -4596,7 +4596,7 @@ NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 20 8
+WinInfo: 0 8 2
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -6957,7 +6957,7 @@ StartChar: citonga
 Encoding: 15 60814 64
 Width: 0
 VWidth: 1920
-Flags: W
+Flags: HW
 AnchorPoint: "Below" -384 -128 mark 0
 LayerCount: 3
 Fore
@@ -7009,21 +7009,22 @@ EndChar
 
 StartChar: tcenabu
 Encoding: 28 60827 66
-Width: 512
+Width: 0
 VWidth: 1920
-Flags: HW
+Flags: HWO
+AnchorPoint: "Below" -384 -128 mark 0
 LayerCount: 3
 Fore
 SplineSet
-0 -255 m 1
- 128 -255 l 1
- 256 -255 l 1
- 384 -255 l 1
- 384 -128 l 1
- 256 -128 l 1
- 128 -128 l 1
- 0 -128 l 1
+-640 -255 m 1
+ -384 -255 l 1
+ -256 -255 l 1
  0 -255 l 1
+ 0 -128 l 1
+ -256 -128 l 1
+ -384 -128 l 1
+ -640 -128 l 1
+ -640 -255 l 1
 EndSplineSet
 EndChar
 
