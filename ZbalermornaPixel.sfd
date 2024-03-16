@@ -22,7 +22,7 @@ OS2Version: 4
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
 CreationTime: 1358538608
-ModificationTime: 1710535702
+ModificationTime: 1710547764
 PfmFamily: 65
 TTFWeight: 400
 TTFWidth: 5
@@ -4590,13 +4590,14 @@ LangName: 1027 "" "" "Normal"
 LangName: 1069 "" "" "Arrunta"
 LangName: 1033 "" "" "Regular" "" "" "Version 1.0" "" "" "Loudifier" "Jeff Davis" "ComicSpice is a typeface designed to bring multilingual support to Peppercarrot.com website, and breaks a bit the original ComicRelief font looking too much like the 'not so loved' Comic-Sans. It's also a condensed version. +AAoACgAA-ComicSpice is available on Peppercarrot sources. +AAoACgAA-The original Comic Relief is freely available via loudifier.com/comic-relief as a .ttf, FontForge .sfd project, and as a web-ready @font-face kit. It is copylefted using the SIL Open Font License, so feel free to use it, modify it, or embed it as you see fit." "http://www.peppercarrot.com" "http://loudifier.com/comic-relief" "Modification by David Revoy ( info@davidrevoy.com ), a fork from the original font ComicRelief.+AAoACgAA-Comic Relief is copyrighted (c) 2013, Jeff Davis (info@loudifier.com),+AAoA-with Reserved Font Name Comic Spans.+AAoACgAA-This Font Software is licensed under the SIL Open Font License, Version 1.1.+AAoA-This license is copied below, and is also available with a FAQ at:+AAoA-http://scripts.sil.org/OFL+AAoACgAK------------------------------------------------------------+AAoA-SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007+AAoA------------------------------------------------------------+AAoACgAA-PREAMBLE+AAoA-The goals of the Open Font License (OFL) are to stimulate worldwide+AAoA-development of collaborative font projects, to support the font creation+AAoA-efforts of academic and linguistic communities, and to provide a free and+AAoA-open framework in which fonts may be shared and improved in partnership+AAoA-with others.+AAoACgAA-The OFL allows the licensed fonts to be used, studied, modified and+AAoA-redistributed freely as long as they are not sold by themselves. The+AAoA-fonts, including any derivative works, can be bundled, embedded, +AAoA-redistributed and/or sold with any software provided that any reserved+AAoA-names are not used by derivative works. The fonts and derivatives,+AAoA-however, cannot be released under any other type of license. The+AAoA-requirement for fonts to remain under this license does not apply+AAoA-to any document created using the fonts or their derivatives.+AAoACgAA-DEFINITIONS+AAoAIgAA-Font Software+ACIA refers to the set of files released by the Copyright+AAoA-Holder(s) under this license and clearly marked as such. This may+AAoA-include source files, build scripts and documentation.+AAoACgAi-Reserved Font Name+ACIA refers to any names specified as such after the+AAoA-copyright statement(s).+AAoACgAi-Original Version+ACIA refers to the collection of Font Software components as+AAoA-distributed by the Copyright Holder(s).+AAoACgAi-Modified Version+ACIA refers to any derivative made by adding to, deleting,+AAoA-or substituting -- in part or in whole -- any of the components of the+AAoA-Original Version, by changing formats or by porting the Font Software to a+AAoA-new environment.+AAoACgAi-Author+ACIA refers to any designer, engineer, programmer, technical+AAoA-writer or other person who contributed to the Font Software.+AAoACgAA-PERMISSION & CONDITIONS+AAoA-Permission is hereby granted, free of charge, to any person obtaining+AAoA-a copy of the Font Software, to use, study, copy, merge, embed, modify,+AAoA-redistribute, and sell modified and unmodified copies of the Font+AAoA-Software, subject to the following conditions:+AAoACgAA-1) Neither the Font Software nor any of its individual components,+AAoA-in Original or Modified Versions, may be sold by itself.+AAoACgAA-2) Original or Modified Versions of the Font Software may be bundled,+AAoA-redistributed and/or sold with any software, provided that each copy+AAoA-contains the above copyright notice and this license. These can be+AAoA-included either as stand-alone text files, human-readable headers or+AAoA-in the appropriate machine-readable metadata fields within text or+AAoA-binary files as long as those fields can be easily viewed by the user.+AAoACgAA-3) No Modified Version of the Font Software may use the Reserved Font+AAoA-Name(s) unless explicit written permission is granted by the corresponding+AAoA-Copyright Holder. This restriction only applies to the primary font name as+AAoA-presented to the users.+AAoACgAA-4) The name(s) of the Copyright Holder(s) or the Author(s) of the Font+AAoA-Software shall not be used to promote, endorse or advertise any+AAoA-Modified Version, except to acknowledge the contribution(s) of the+AAoA-Copyright Holder(s) and the Author(s) or with their explicit written+AAoA-permission.+AAoACgAA-5) The Font Software, modified or unmodified, in part or in whole,+AAoA-must be distributed entirely under this license, and must not be+AAoA-distributed under any other license. The requirement for fonts to+AAoA-remain under this license does not apply to any document created+AAoA-using the Font Software.+AAoACgAA-TERMINATION+AAoA-This license becomes null and void if any of the above conditions are+AAoA-not met.+AAoACgAA-DISCLAIMER+AAoA-THE FONT SOFTWARE IS PROVIDED +ACIA-AS IS+ACIA, WITHOUT WARRANTY OF ANY KIND,+AAoA-EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO ANY WARRANTIES OF+AAoA-MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT+AAoA-OF COPYRIGHT, PATENT, TRADEMARK, OR OTHER RIGHT. IN NO EVENT SHALL THE+AAoA-COPYRIGHT HOLDER BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,+AAoA-INCLUDING ANY GENERAL, SPECIAL, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL+AAoA-DAMAGES, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING+AAoA-FROM, OUT OF THE USE OR INABILITY TO USE THE FONT SOFTWARE OR FROM+AAoA-OTHER DEALINGS IN THE FONT SOFTWARE." "http://scripts.sil.org/OFL"
 GaspTable: 3 8 2 15 1 65535 3 0
-Encoding: Custom
+Encoding: UnicodeBmp
+Compacted: 1
 UnicodeInterp: none
 NameList: AGL For New Fonts
 DisplaySize: -96
 AntiAlias: 1
 FitToEm: 0
-WinInfo: 0 8 2
+WinInfo: 0 20 7
 BeginPrivate: 0
 EndPrivate
 Grid
@@ -4606,10 +4607,10 @@ Grid
 EndSplineSet
 TeXData: 1 0 0 200192 100096 66730 525824 -1048576 66730 783286 444596 497025 792723 393216 433062 380633 303038 157286 324010 404750 52429 2506097 1059062 262144
 AnchorClass2: "Below" "'mark' Mark Positioning in Latin lookup 0-1" "Above" "'mark' Mark Positioning in Latin lookup 0-1" "r"""  "Anchor-0"""  "Anchor-1"""  "Anchor-2"""  "Anchor-3""" 
-BeginChars: 71 71
+BeginChars: 65556 71
 
 StartChar: space
-Encoding: 0 32 0
+Encoding: 32 32 0
 Width: 512
 GlyphClass: 2
 Flags: HW
@@ -4617,10 +4618,10 @@ LayerCount: 3
 EndChar
 
 StartChar: seplimeabu
-Encoding: 46 60848 1
+Encoding: 60848 60848 1
 Width: 768
 VWidth: 1920
-Flags: W
+Flags: HW
 HStem: 0 640
 VStem: 128 512
 AnchorPoint: "Below" 384 -128 basechar 0
@@ -4629,23 +4630,11 @@ LayerCount: 3
 Fore
 SplineSet
 128 0 m 1
- 256 0 l 1
- 256 128 l 1
- 256 256 l 1
- 256 384 l 1
- 256 512 l 1
- 384 512 l 1
- 512 512 l 1
- 640 512 l 1
- 640 640 l 1
- 512 640 l 1
- 384 640 l 1
- 256 640 l 1
  128 640 l 1
- 128 512 l 1
- 128 384 l 1
- 128 256 l 1
- 128 128 l 1
+ 640 640 l 1
+ 640 512 l 1
+ 256 512 l 1
+ 256 0 l 1
  128 0 l 1
 EndSplineSet
 Ligature2: "zlmSF subtable" slakabu seplimeabu
@@ -4653,10 +4642,10 @@ LCarets2: 1 0
 EndChar
 
 StartChar: seplimeebu
-Encoding: 47 60849 2
+Encoding: 60849 60849 2
 Width: 768
 VWidth: 1920
-Flags: W
+Flags: HW
 HStem: 0 640
 VStem: 128 512
 AnchorPoint: "Below" 384 -128 basechar 0
@@ -4665,23 +4654,13 @@ LayerCount: 3
 Fore
 SplineSet
 128 0 m 1
- 256 0 l 1
- 256 128 l 1
- 256 256 l 1
- 384 256 l 1
- 512 256 l 1
- 640 256 l 1
- 640 384 l 1
- 512 384 l 1
- 384 384 l 1
- 256 384 l 1
- 256 512 l 1
- 256 640 l 1
  128 640 l 1
- 128 512 l 1
- 128 384 l 1
- 128 256 l 1
- 128 128 l 1
+ 256 640 l 1
+ 256 384 l 1
+ 640 384 l 1
+ 640 256 l 1
+ 256 256 l 1
+ 256 0 l 1
  128 0 l 1
 EndSplineSet
 Ligature2: "zlmSF subtable" slakabu seplimeebu
@@ -4689,10 +4668,10 @@ LCarets2: 1 0
 EndChar
 
 StartChar: seplimeibu
-Encoding: 48 60850 3
+Encoding: 60850 60850 3
 Width: 896
 VWidth: 1920
-Flags: W
+Flags: HW
 HStem: 0 640
 VStem: 128 640
 AnchorPoint: "Below" 384 -128 basechar 0
@@ -4701,33 +4680,13 @@ LayerCount: 3
 Fore
 SplineSet
 128 0 m 1
- 256 0 l 1
- 256 128 l 1
- 256 256 l 1
- 256 384 l 1
- 256 512 l 1
- 384 512 l 1
- 512 512 l 1
- 640 512 l 1
- 640 384 l 1
- 640 256 l 1
- 640 128 l 1
- 640 0 l 1
- 768 0 l 1
- 768 128 l 1
- 768 256 l 1
- 768 384 l 1
- 768 512 l 1
- 768 640 l 1
- 640 640 l 1
- 512 640 l 1
- 384 640 l 1
- 256 640 l 1
  128 640 l 1
- 128 512 l 1
- 128 384 l 1
- 128 256 l 1
- 128 128 l 1
+ 768 640 l 1
+ 768 0 l 1
+ 640 0 l 1
+ 640 512 l 1
+ 256 512 l 1
+ 256 0 l 1
  128 0 l 1
 EndSplineSet
 Ligature2: "zlmSF subtable" slakabu seplimeibu
@@ -4735,10 +4694,10 @@ LCarets2: 1 0
 EndChar
 
 StartChar: seplimeobu
-Encoding: 49 60851 4
+Encoding: 60851 60851 4
 Width: 768
 VWidth: 1920
-Flags: W
+Flags: HW
 HStem: 0 640
 VStem: 128 512
 AnchorPoint: "Below" 256 -128 basechar 0
@@ -4747,23 +4706,11 @@ LayerCount: 3
 Fore
 SplineSet
 128 0 m 1
- 256 0 l 1
- 384 0 l 1
- 512 0 l 1
- 640 0 l 1
- 640 128 l 1
- 640 256 l 1
- 640 384 l 1
- 640 512 l 1
- 640 640 l 1
- 512 640 l 1
- 512 512 l 1
- 512 384 l 1
- 512 256 l 1
- 512 128 l 1
- 384 128 l 1
- 256 128 l 1
  128 128 l 1
+ 512 128 l 1
+ 512 640 l 1
+ 640 640 l 1
+ 640 0 l 1
  128 0 l 1
 EndSplineSet
 Ligature2: "zlmSF subtable" slakabu seplimeobu
@@ -4771,10 +4718,10 @@ LCarets2: 1 0
 EndChar
 
 StartChar: seplimeubu
-Encoding: 50 60852 5
+Encoding: 60852 60852 5
 Width: 896
 VWidth: 1920
-Flags: W
+Flags: HW
 HStem: 0 640
 VStem: 128 640
 AnchorPoint: "Below" 384 -128 basechar 0
@@ -4783,33 +4730,13 @@ LayerCount: 3
 Fore
 SplineSet
 128 0 m 1
- 256 0 l 1
- 384 0 l 1
- 512 0 l 1
- 640 0 l 1
- 768 0 l 1
- 768 128 l 1
- 768 256 l 1
- 768 384 l 1
- 768 512 l 1
- 768 640 l 1
- 640 640 l 1
- 640 512 l 1
- 640 384 l 1
- 640 256 l 1
- 640 128 l 1
- 512 128 l 1
- 384 128 l 1
- 256 128 l 1
- 256 256 l 1
- 256 384 l 1
- 256 512 l 1
- 256 640 l 1
  128 640 l 1
- 128 512 l 1
- 128 384 l 1
- 128 256 l 1
- 128 128 l 1
+ 256 640 l 1
+ 256 128 l 1
+ 640 128 l 1
+ 640 640 l 1
+ 768 640 l 1
+ 768 0 l 1
  128 0 l 1
 EndSplineSet
 Ligature2: "zlmSF subtable" slakabu seplimeubu
@@ -4817,10 +4744,10 @@ LCarets2: 1 0
 EndChar
 
 StartChar: seplimeybu
-Encoding: 51 60853 6
+Encoding: 60853 60853 6
 Width: 896
 VWidth: 1920
-Flags: W
+Flags: HW
 HStem: 0 640
 VStem: 128 640
 AnchorPoint: "Below" 384 -128 basechar 0
@@ -4829,25 +4756,17 @@ LayerCount: 3
 Fore
 SplineSet
 128 256 m 1
- 256 256 l 1
- 384 256 l 1
- 384 128 l 1
- 384 0 l 1
- 512 0 l 1
- 512 128 l 1
- 512 256 l 1
- 640 256 l 1
- 768 256 l 1
- 768 384 l 1
- 640 384 l 1
- 512 384 l 1
- 512 512 l 1
- 512 640 l 1
- 384 640 l 1
- 384 512 l 1
- 384 384 l 1
- 256 384 l 1
  128 384 l 1
+ 384 384 l 1
+ 384 640 l 1
+ 512 640 l 1
+ 512 384 l 1
+ 768 384 l 1
+ 768 256 l 1
+ 512 256 l 1
+ 512 0 l 1
+ 384 0 l 1
+ 384 256 l 1
  128 256 l 1
 EndSplineSet
 Ligature2: "zlmSF subtable" slakabu seplimeybu
@@ -4855,10 +4774,10 @@ LCarets2: 1 0
 EndChar
 
 StartChar: seplimeaibu
-Encoding: 52 60854 7
+Encoding: 60854 60854 7
 Width: 768
 VWidth: 1920
-Flags: W
+Flags: HW
 HStem: 0 640
 VStem: 128 512
 AnchorPoint: "Below" 384 -128 basechar 0
@@ -4867,29 +4786,13 @@ LayerCount: 3
 Fore
 SplineSet
 128 0 m 1
- 256 0 l 1
- 384 0 l 1
- 512 0 l 1
- 640 0 l 1
- 640 128 l 1
- 512 128 l 1
- 384 128 l 1
- 256 128 l 1
- 256 256 l 1
- 256 384 l 1
- 256 512 l 1
- 384 512 l 1
- 512 512 l 1
- 640 512 l 1
- 640 640 l 1
- 512 640 l 1
- 384 640 l 1
- 256 640 l 1
  128 640 l 1
- 128 512 l 1
- 128 384 l 1
- 128 256 l 1
- 128 128 l 1
+ 640 640 l 1
+ 640 512 l 1
+ 256 512 l 1
+ 256 128 l 1
+ 640 128 l 1
+ 640 0 l 1
  128 0 l 1
 EndSplineSet
 Ligature2: "zlmSFF subtable" slakabu seplimeaibu
@@ -4898,53 +4801,49 @@ LCarets2: 1 0
 EndChar
 
 StartChar: seplimeeibu
-Encoding: 53 60855 8
+Encoding: 60855 60855 8
 Width: 896
 VWidth: 1920
-Flags: W
+Flags: HW
 AnchorPoint: "Below" 384 -128 basechar 0
 AnchorPoint: "Above" 384 768 basechar 0
 LayerCount: 3
 Fore
 SplineSet
 128 128 m 1
- 256 128 l 1
- 256 256 l 1
  128 256 l 1
+ 256 256 l 1
+ 256 128 l 1
  128 128 l 1
 256 0 m 1
- 384 0 l 1
- 512 0 l 1
- 512 128 l 1
- 384 128 l 1
  256 128 l 1
+ 512 128 l 1
+ 512 0 l 1
  256 0 l 1
 256 384 m 1
- 384 384 l 1
- 384 512 l 1
  256 512 l 1
+ 384 512 l 1
+ 384 384 l 1
  256 384 l 1
 384 256 m 1
- 512 256 l 1
- 512 384 l 1
  384 384 l 1
+ 512 384 l 1
+ 512 256 l 1
  384 256 l 1
 384 512 m 1
- 512 512 l 1
- 640 512 l 1
- 640 640 l 1
- 512 640 l 1
  384 640 l 1
+ 640 640 l 1
+ 640 512 l 1
  384 512 l 1
 512 128 m 1
- 640 128 l 1
- 640 256 l 1
  512 256 l 1
+ 640 256 l 1
+ 640 128 l 1
  512 128 l 1
 640 384 m 1
- 768 384 l 1
- 768 512 l 1
  640 512 l 1
+ 768 512 l 1
+ 768 384 l 1
  640 384 l 1
 EndSplineSet
 Ligature2: "zlmSFF subtable" slakabu seplimeeibu
@@ -4953,10 +4852,10 @@ LCarets2: 1 0
 EndChar
 
 StartChar: seplimeoibu
-Encoding: 54 60856 9
+Encoding: 60856 60856 9
 Width: 768
 VWidth: 1920
-Flags: W
+Flags: HW
 HStem: 0 640
 VStem: 128 512
 AnchorPoint: "Below" 256 -128 basechar 0
@@ -4965,29 +4864,13 @@ LayerCount: 3
 Fore
 SplineSet
 128 0 m 1
- 256 0 l 1
- 384 0 l 1
- 512 0 l 1
- 640 0 l 1
- 640 128 l 1
- 640 256 l 1
- 640 384 l 1
- 640 512 l 1
- 640 640 l 1
- 512 640 l 1
- 384 640 l 1
- 256 640 l 1
- 128 640 l 1
- 128 512 l 1
- 256 512 l 1
- 384 512 l 1
- 512 512 l 1
- 512 384 l 1
- 512 256 l 1
- 512 128 l 1
- 384 128 l 1
- 256 128 l 1
  128 128 l 1
+ 512 128 l 1
+ 512 512 l 1
+ 128 512 l 1
+ 128 640 l 1
+ 640 640 l 1
+ 640 0 l 1
  128 0 l 1
 EndSplineSet
 Ligature2: "zlmSFF subtable" slakabu seplimeoibu
@@ -4996,7 +4879,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: seplimeaubu
-Encoding: 55 60857 10
+Encoding: 60857 60857 10
 Width: 896
 VWidth: 1920
 Flags: W
@@ -5057,7 +4940,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: denpabu
-Encoding: 10 60809 11
+Encoding: 60809 60809 11
 Width: 512
 VWidth: 1920
 Flags: HW
@@ -5076,7 +4959,7 @@ Substitution2: "Single Substitution lookup 73 subtable" denpabu.cas
 EndChar
 
 StartChar: yhy
-Encoding: 11 60810 12
+Encoding: 60810 60810 12
 Width: 512
 VWidth: 1920
 Flags: HW
@@ -5086,17 +4969,9 @@ LayerCount: 3
 Fore
 SplineSet
 128 0 m 1
- 256 0 l 1
- 256 128 l 1
- 256 256 l 1
- 256 384 l 1
- 256 512 l 1
- 256 640 l 1
  128 640 l 1
- 128 512 l 1
- 128 384 l 1
- 128 256 l 1
- 128 128 l 1
+ 256 640 l 1
+ 256 0 l 1
  128 0 l 1
 EndSplineSet
 Substitution2: "Single Substitution lookup 75 subtable" yhy.cas
@@ -5104,7 +4979,7 @@ Substitution2: "Single Substitution lookup 74 subtable" yhy.cas
 EndChar
 
 StartChar: py
-Encoding: 1 60800 13
+Encoding: 60800 60800 13
 Width: 896
 Flags: W
 HStem: 0 128<256 512> 128 128<512 640> 1004 20G<128 256>
@@ -5135,815 +5010,514 @@ EndSplineSet
 EndChar
 
 StartChar: ty
-Encoding: 2 60801 14
+Encoding: 60801 60801 14
 Width: 896
 VWidth: 1920
-Flags: W
+Flags: HW
 AnchorPoint: "Below" 384 -128 basechar 0
 AnchorPoint: "Above" 512 768 basechar 0
 LayerCount: 3
 Fore
 SplineSet
 128 0 m 1
- 256 0 l 1
- 256 128 l 1
- 256 256 l 1
- 256 384 l 1
- 384 384 l 1
- 384 512 l 1
- 256 512 l 1
- 256 640 l 1
- 256 768 l 1
- 256 896 l 1
- 256 1024 l 1
  128 1024 l 1
- 128 896 l 1
- 128 768 l 1
- 128 640 l 1
- 128 512 l 1
- 128 384 l 1
- 128 256 l 1
- 128 128 l 1
+ 256 1024 l 1
+ 256 512 l 1
+ 384 512 l 1
+ 384 384 l 1
+ 256 384 l 1
+ 256 0 l 1
  128 0 l 1
 384 512 m 1
- 512 512 l 1
- 640 512 l 1
- 640 640 l 1
- 512 640 l 1
  384 640 l 1
+ 640 640 l 1
+ 640 512 l 1
  384 512 l 1
 640 0 m 1
- 768 0 l 1
- 768 128 l 1
- 768 256 l 1
- 768 384 l 1
- 768 512 l 1
  640 512 l 1
- 640 384 l 1
- 640 256 l 1
- 640 128 l 1
+ 768 512 l 1
+ 768 0 l 1
  640 0 l 1
 EndSplineSet
 EndChar
 
 StartChar: ky
-Encoding: 3 60802 15
+Encoding: 60802 60802 15
 Width: 896
 VWidth: 1920
-Flags: W
+Flags: HW
 AnchorPoint: "Below" 384 -128 basechar 0
 AnchorPoint: "Above" 512 768 basechar 0
 LayerCount: 3
 Fore
 SplineSet
 128 0 m 1
- 256 0 l 1
- 256 128 l 1
- 384 128 l 1
- 384 256 l 1
- 256 256 l 1
- 256 384 l 1
- 256 512 l 1
- 256 640 l 1
- 256 768 l 1
- 256 896 l 1
- 256 1024 l 1
  128 1024 l 1
- 128 896 l 1
- 128 768 l 1
- 128 640 l 1
- 128 512 l 1
- 128 384 l 1
- 128 256 l 1
- 128 128 l 1
+ 256 1024 l 1
+ 256 256 l 1
+ 384 256 l 1
+ 384 128 l 1
+ 256 128 l 1
+ 256 0 l 1
  128 0 l 1
 384 256 m 1
- 512 256 l 1
- 512 384 l 1
  384 384 l 1
+ 512 384 l 1
+ 512 256 l 1
  384 256 l 1
 512 384 m 1
- 640 384 l 1
- 640 256 l 1
- 640 128 l 1
- 640 0 l 1
- 768 0 l 1
- 768 128 l 1
- 768 256 l 1
- 768 384 l 1
- 768 512 l 1
- 768 640 l 1
- 640 640 l 1
- 640 512 l 1
  512 512 l 1
+ 640 512 l 1
+ 640 640 l 1
+ 768 640 l 1
+ 768 0 l 1
+ 640 0 l 1
+ 640 384 l 1
  512 384 l 1
 EndSplineSet
 EndChar
 
 StartChar: vy
-Encoding: 20 60819 16
+Encoding: 60819 60819 16
 Width: 768
 VWidth: 1920
-Flags: W
+Flags: HW
 AnchorPoint: "Below" 256 -128 basechar 0
 AnchorPoint: "Above" 256 768 basechar 0
 LayerCount: 3
 Fore
 SplineSet
 128 512 m 1
- 256 512 l 1
- 384 512 l 1
- 512 512 l 1
- 512 640 l 1
- 384 640 l 1
- 256 640 l 1
  128 640 l 1
+ 512 640 l 1
+ 512 512 l 1
  128 512 l 1
 256 0 m 1
- 384 0 l 1
- 384 128 l 1
- 384 256 l 1
  256 256 l 1
- 256 128 l 1
+ 384 256 l 1
+ 384 0 l 1
  256 0 l 1
 384 256 m 1
- 512 256 l 1
- 512 384 l 1
  384 384 l 1
+ 512 384 l 1
+ 512 256 l 1
  384 256 l 1
 512 384 m 1
- 640 384 l 1
- 640 512 l 1
  512 512 l 1
+ 640 512 l 1
+ 640 384 l 1
  512 384 l 1
 EndSplineSet
 EndChar
 
 StartChar: ly
-Encoding: 5 60804 17
+Encoding: 60804 60804 17
 Width: 768
 VWidth: 1920
-Flags: W
+Flags: HW
 AnchorPoint: "Below" 384 -128 basechar 0
 AnchorPoint: "Above" 384 768 basechar 0
 LayerCount: 3
 Fore
 SplineSet
 128 128 m 1
- 256 128 l 1
- 256 256 l 1
- 256 384 l 1
- 256 512 l 1
  128 512 l 1
- 128 384 l 1
- 128 256 l 1
+ 256 512 l 1
+ 256 128 l 1
  128 128 l 1
 256 0 m 1
- 384 0 l 1
- 512 0 l 1
- 640 0 l 1
- 640 128 l 1
- 512 128 l 1
- 384 128 l 1
  256 128 l 1
+ 640 128 l 1
+ 640 0 l 1
  256 0 l 1
 256 512 m 1
- 384 512 l 1
- 512 512 l 1
- 640 512 l 1
- 640 640 l 1
- 512 640 l 1
- 384 640 l 1
  256 640 l 1
+ 640 640 l 1
+ 640 512 l 1
  256 512 l 1
 EndSplineSet
 EndChar
 
 StartChar: sy
-Encoding: 6 60805 18
+Encoding: 60805 60805 18
 Width: 896
 VWidth: 1920
-Flags: W
+Flags: HW
 AnchorPoint: "Below" 384 -128 basechar 0
 AnchorPoint: "Above" 256 768 basechar 0
 LayerCount: 3
 Fore
 SplineSet
 128 128 m 1
- 256 128 l 1
- 256 256 l 1
- 256 384 l 1
- 256 512 l 1
  128 512 l 1
- 128 384 l 1
- 128 256 l 1
+ 256 512 l 1
+ 256 128 l 1
  128 128 l 1
 256 0 m 1
- 384 0 l 1
- 512 0 l 1
- 640 0 l 1
- 640 128 l 1
- 512 128 l 1
- 384 128 l 1
  256 128 l 1
+ 640 128 l 1
+ 640 0 l 1
  256 0 l 1
 256 512 m 1
- 384 512 l 1
- 512 512 l 1
- 512 640 l 1
- 384 640 l 1
  256 640 l 1
+ 512 640 l 1
+ 512 512 l 1
  256 512 l 1
 640 128 m 1
- 768 128 l 1
- 768 256 l 1
- 768 384 l 1
- 768 512 l 1
- 768 640 l 1
- 768 768 l 1
- 768 896 l 1
- 768 1024 l 1
  640 1024 l 1
- 640 896 l 1
- 640 768 l 1
- 640 640 l 1
- 640 512 l 1
- 640 384 l 1
- 640 256 l 1
+ 768 1024 l 1
+ 768 128 l 1
  640 128 l 1
 EndSplineSet
 EndChar
 
 StartChar: cy
-Encoding: 7 60806 19
+Encoding: 60806 60806 19
 Width: 896
 VWidth: 1920
-Flags: W
+Flags: HW
 AnchorPoint: "Below" 384 -128 basechar 0
 AnchorPoint: "Above" 256 768 basechar 0
 LayerCount: 3
 Fore
 SplineSet
 128 0 m 1
- 256 0 l 1
- 256 128 l 1
- 256 256 l 1
- 256 384 l 1
- 384 384 l 1
- 384 512 l 1
- 256 512 l 1
- 256 640 l 1
  128 640 l 1
- 128 512 l 1
- 128 384 l 1
- 128 256 l 1
- 128 128 l 1
+ 256 640 l 1
+ 256 512 l 1
+ 384 512 l 1
+ 384 384 l 1
+ 256 384 l 1
+ 256 0 l 1
  128 0 l 1
 384 512 m 1
- 512 512 l 1
- 640 512 l 1
- 640 384 l 1
- 640 256 l 1
- 640 128 l 1
- 640 0 l 1
- 768 0 l 1
- 768 128 l 1
- 768 256 l 1
- 768 384 l 1
- 768 512 l 1
- 768 640 l 1
- 768 768 l 1
- 768 896 l 1
- 768 1024 l 1
- 640 1024 l 1
- 640 896 l 1
- 640 768 l 1
- 640 640 l 1
- 512 640 l 1
  384 640 l 1
+ 640 640 l 1
+ 640 1024 l 1
+ 768 1024 l 1
+ 768 0 l 1
+ 640 0 l 1
+ 640 512 l 1
  384 512 l 1
 EndSplineSet
 EndChar
 
 StartChar: my
-Encoding: 8 60807 20
+Encoding: 60807 60807 20
 Width: 896
 VWidth: 1920
-Flags: W
+Flags: HW
 AnchorPoint: "Below" 384 -128 basechar 0
 AnchorPoint: "Above" 384 768 basechar 0
 LayerCount: 3
 Fore
 SplineSet
 128 384 m 1
- 256 384 l 1
- 256 512 l 1
  128 512 l 1
+ 256 512 l 1
+ 256 384 l 1
  128 384 l 1
 256 0 m 1
- 384 0 l 1
- 512 0 l 1
- 640 0 l 1
- 768 0 l 1
- 768 128 l 1
- 640 128 l 1
- 512 128 l 1
- 384 128 l 1
- 384 256 l 1
- 256 256 l 1
  256 128 l 1
+ 256 256 l 1
+ 384 256 l 1
+ 384 128 l 1
+ 768 128 l 1
+ 768 0 l 1
  256 0 l 1
 256 512 m 1
- 384 512 l 1
- 512 512 l 1
- 512 640 l 1
- 384 640 l 1
  256 640 l 1
+ 512 640 l 1
+ 512 512 l 1
  256 512 l 1
 384 256 m 1
- 512 256 l 1
- 512 384 l 1
  384 384 l 1
+ 512 384 l 1
+ 512 256 l 1
  384 256 l 1
 512 384 m 1
- 640 384 l 1
- 640 512 l 1
  512 512 l 1
+ 640 512 l 1
+ 640 384 l 1
  512 384 l 1
 EndSplineSet
 EndChar
 
 StartChar: xy
-Encoding: 9 60808 21
+Encoding: 60808 60808 21
 Width: 896
 VWidth: 1920
-Flags: W
+Flags: HW
 AnchorPoint: "Below" 384 -128 basechar 0
 AnchorPoint: "Above" 384 768 basechar 0
 LayerCount: 3
 Fore
 SplineSet
 128 128 m 1
- 256 128 l 1
- 256 256 l 1
- 256 384 l 1
- 256 512 l 1
  128 512 l 1
- 128 384 l 1
- 128 256 l 1
+ 256 512 l 1
+ 256 128 l 1
  128 128 l 1
 256 0 m 1
- 384 0 l 1
- 512 0 l 1
- 640 0 l 1
- 640 128 l 1
- 512 128 l 1
- 384 128 l 1
  256 128 l 1
+ 640 128 l 1
+ 640 0 l 1
  256 0 l 1
 256 512 m 1
- 384 512 l 1
- 512 512 l 1
- 640 512 l 1
- 640 640 l 1
- 512 640 l 1
- 384 640 l 1
  256 640 l 1
+ 640 640 l 1
+ 640 512 l 1
  256 512 l 1
 640 128 m 1
- 768 128 l 1
- 768 256 l 1
- 768 384 l 1
- 768 512 l 1
  640 512 l 1
- 640 384 l 1
- 640 256 l 1
+ 768 512 l 1
+ 768 128 l 1
  640 128 l 1
 EndSplineSet
 EndChar
 
 StartChar: by
-Encoding: 17 60816 22
+Encoding: 60816 60816 22
 Width: 896
 VWidth: 1920
-Flags: W
+Flags: HW
 AnchorPoint: "Below" 256 -128 basechar 0
 AnchorPoint: "Above" 384 768 basechar 0
 LayerCount: 3
 Fore
 SplineSet
 128 0 m 1
- 256 0 l 1
- 256 128 l 1
- 256 256 l 1
- 256 384 l 1
  128 384 l 1
- 128 256 l 1
- 128 128 l 1
+ 256 384 l 1
+ 256 0 l 1
  128 0 l 1
 256 384 m 1
- 384 384 l 1
- 384 512 l 1
  256 512 l 1
+ 384 512 l 1
+ 384 384 l 1
  256 384 l 1
 384 512 m 1
- 512 512 l 1
- 640 512 l 1
- 640 384 l 1
- 640 256 l 1
- 640 128 l 1
- 640 0 l 1
- 640 -128 l 1
- 640 -257 l 1
- 640 -384 l 1
- 768 -384 l 1
- 768 -257 l 1
- 768 -128 l 1
- 768 0 l 1
- 768 128 l 1
- 768 256 l 1
- 768 384 l 1
- 768 512 l 1
- 768 640 l 1
- 640 640 l 1
- 512 640 l 1
  384 640 l 1
+ 640 640 l 1
+ 768 640 l 1
+ 768 512 l 1
+ 768 -384 l 1
+ 640 -384 l 1
+ 640 512 l 1
  384 512 l 1
 EndSplineSet
 EndChar
 
 StartChar: dy
-Encoding: 18 60817 23
+Encoding: 60817 60817 23
 Width: 896
 VWidth: 1920
-Flags: W
+Flags: HW
 AnchorPoint: "Below" 256 -128 basechar 0
 AnchorPoint: "Above" 384 768 basechar 0
 LayerCount: 3
 Fore
 SplineSet
 128 128 m 1
- 256 128 l 1
- 256 256 l 1
- 256 384 l 1
- 256 512 l 1
- 256 640 l 1
  128 640 l 1
- 128 512 l 1
- 128 384 l 1
- 128 256 l 1
+ 256 640 l 1
+ 256 128 l 1
  128 128 l 1
 256 0 m 1
- 384 0 l 1
- 512 0 l 1
- 512 128 l 1
- 384 128 l 1
  256 128 l 1
+ 512 128 l 1
+ 512 0 l 1
  256 0 l 1
 512 128 m 1
- 640 128 l 1
- 640 0 l 1
- 640 -128 l 1
- 640 -257 l 1
- 640 -384 l 1
- 768 -384 l 1
- 768 -257 l 1
- 768 -128 l 1
- 768 0 l 1
- 768 128 l 1
- 768 256 l 1
- 768 384 l 1
- 768 512 l 1
- 768 640 l 1
- 640 640 l 1
- 640 512 l 1
- 640 384 l 1
- 640 256 l 1
  512 256 l 1
+ 640 256 l 1
+ 640 640 l 1
+ 768 640 l 1
+ 768 256 l 1
+ 768 128 l 1
+ 768 -384 l 1
+ 640 -384 l 1
+ 640 128 l 1
  512 128 l 1
 EndSplineSet
 EndChar
 
 StartChar: gy
-Encoding: 19 60818 24
+Encoding: 60818 60818 24
 Width: 896
 VWidth: 1920
-Flags: W
+Flags: HW
 AnchorPoint: "Below" 256 -128 basechar 0
 AnchorPoint: "Above" 384 768 basechar 0
 LayerCount: 3
 Fore
 SplineSet
 128 0 m 1
- 256 0 l 1
- 256 128 l 1
- 384 128 l 1
- 384 256 l 1
- 256 256 l 1
- 256 384 l 1
- 256 512 l 1
- 256 640 l 1
  128 640 l 1
- 128 512 l 1
- 128 384 l 1
- 128 256 l 1
- 128 128 l 1
+ 256 640 l 1
+ 256 256 l 1
+ 384 256 l 1
+ 384 128 l 1
+ 256 128 l 1
+ 256 0 l 1
  128 0 l 1
 384 256 m 1
- 512 256 l 1
- 512 384 l 1
  384 384 l 1
+ 512 384 l 1
+ 512 256 l 1
  384 256 l 1
 512 384 m 1
- 640 384 l 1
- 640 256 l 1
- 640 128 l 1
- 640 0 l 1
- 640 -128 l 1
- 640 -257 l 1
- 640 -384 l 1
- 768 -384 l 1
- 768 -257 l 1
- 768 -128 l 1
- 768 0 l 1
- 768 128 l 1
- 768 256 l 1
- 768 384 l 1
- 768 512 l 1
- 768 640 l 1
- 640 640 l 1
- 640 512 l 1
  512 512 l 1
+ 640 512 l 1
+ 640 640 l 1
+ 768 640 l 1
+ 768 512 l 1
+ 768 384 l 1
+ 768 -384 l 1
+ 640 -384 l 1
+ 640 384 l 1
  512 384 l 1
 EndSplineSet
 EndChar
 
 StartChar: fy
-Encoding: 4 60803 25
+Encoding: 60803 60803 25
 Width: 768
 VWidth: 1920
-Flags: W
+Flags: HW
 AnchorPoint: "Below" 384 -128 basechar 0
 AnchorPoint: "Above" 384 768 basechar 0
 LayerCount: 3
 Fore
 SplineSet
 128 128 m 1
- 256 128 l 1
- 256 256 l 1
  128 256 l 1
+ 256 256 l 1
+ 256 128 l 1
  128 128 l 1
 256 0 m 1
- 384 0 l 1
- 512 0 l 1
- 640 0 l 1
- 640 128 l 1
- 512 128 l 1
- 384 128 l 1
  256 128 l 1
+ 640 128 l 1
+ 640 0 l 1
  256 0 l 1
 256 256 m 1
- 384 256 l 1
- 384 384 l 1
  256 384 l 1
+ 384 384 l 1
+ 384 256 l 1
  256 256 l 1
 384 384 m 1
- 512 384 l 1
- 512 512 l 1
- 512 640 l 1
  384 640 l 1
- 384 512 l 1
+ 512 640 l 1
+ 512 384 l 1
  384 384 l 1
 EndSplineSet
 EndChar
 
 StartChar: ry
-Encoding: 21 60820 26
+Encoding: 60820 60820 26
 Width: 768
 VWidth: 1920
-Flags: W
+Flags: HW
 AnchorPoint: "Below" 256 -128 basechar 0
 AnchorPoint: "Above" 256 768 basechar 0
 LayerCount: 3
 Fore
 SplineSet
 128 0 m 1
- 256 0 l 1
- 384 0 l 1
- 512 0 l 1
- 512 128 l 1
- 384 128 l 1
- 256 128 l 1
  128 128 l 1
+ 512 128 l 1
+ 512 0 l 1
  128 0 l 1
 128 512 m 1
- 256 512 l 1
- 384 512 l 1
- 512 512 l 1
- 512 640 l 1
- 384 640 l 1
- 256 640 l 1
  128 640 l 1
+ 512 640 l 1
+ 512 512 l 1
  128 512 l 1
 512 128 m 1
- 640 128 l 1
- 640 256 l 1
- 640 384 l 1
- 640 512 l 1
- 512 512 l 1
- 512 384 l 1
- 512 256 l 1
- 512 128 l 1
-EndSplineSet
-EndChar
-
-StartChar: zy
-Encoding: 22 60821 27
-Width: 896
-VWidth: 1920
-Flags: W
-AnchorPoint: "Below" 512 -128 basechar 0
-AnchorPoint: "Above" 384 768 basechar 0
-LayerCount: 3
-Back
-SplineSet
-260.715820312 808 m 1,0,1
- 314 888 314 888 400.875976562 870 c 0,2,3
- 507 848 507 848 557 772 c 0,4,5
- 601 704 601 704 599 559 c 0,6,7
- 596.795898438 466.458007812 596.795898438 466.458007812 512 321 c 0,8,9
- 458 234 458 234 374 207 c 0,10,11
- 372 207 372 207 240.954101562 183 c 1,12,-1
- 260.715820312 808 l 1,0,1
-40.732421875 -471 m 2,16,17
- 40.603515625 -476.828125 40.603515625 -476.828125 40.8359375 -482.31640625 c 0,18,19
- 34.7939453125 -498.040039062 34.7939453125 -498.040039062 34.3837890625 -518.524414062 c 0,20,21
- 31.603515625 -609.90625 31.603515625 -609.90625 181.782226562 -606.961914062 c 0,22,23
- 300.337890625 -602.75 300.337890625 -602.75 412.490234375 -430.087890625 c 1,24,-1
- 235.866210938 -433.452148438 l 1,25,-1
- 237.040039062 -53 l 1,26,-1
- 237.045898438 -51 l 2,27,28
- 239 -52 239 -52 239 -53 c 1,29,30
- 239 -40 239 -40 400.477539062 0 c 0,31,32
- 523 30 523 30 634.038085938 178 c 0,33,34
- 777 368 777 368 776 592 c 0,35,36
- 776 810 776 810 674 934 c 0,37,38
- 570 1061 570 1061 405.998046875 1062 c 0,39,40
- 102 1061 102 1061 72.4384765625 889.688476562 c 1,41,-1
- 40.732421875 -471 l 2,16,17
-239 -53 m 2,52,-1
- 237.040039062 -53 l 1,53,-1
- 237.045898438 -51 l 2,54,55
- 239 -52 239 -52 239 -53 c 2,52,-1
-EndSplineSet
-Fore
-SplineSet
-128 -384 m 1
- 256 -384 l 1
- 256 -257 l 1
- 256 -128 l 1
- 256 0 l 1
- 256 128 l 1
- 256 256 l 1
- 256 384 l 1
- 256 512 l 1
- 128 512 l 1
- 128 384 l 1
- 128 256 l 1
- 128 128 l 1
- 128 0 l 1
- 128 -128 l 1
- 128 -257 l 1
- 128 -384 l 1
-256 512 m 1
- 384 512 l 1
  512 512 l 1
  640 512 l 1
- 640 640 l 1
- 512 640 l 1
- 384 640 l 1
- 256 640 l 1
- 256 512 l 1
-384 0 m 1
- 512 0 l 1
- 640 0 l 1
  640 128 l 1
  512 128 l 1
- 384 128 l 1
- 384 0 l 1
-640 128 m 1
- 768 128 l 1
- 768 256 l 1
- 768 384 l 1
- 768 512 l 1
- 640 512 l 1
- 640 384 l 1
- 640 256 l 1
- 640 128 l 1
 EndSplineSet
 EndChar
 
 StartChar: jy
-Encoding: 23 60822 28
+Encoding: 60822 60822 27
 Width: 896
 VWidth: 1920
-Flags: W
+Flags: HW
 AnchorPoint: "Below" 512 -128 basechar 0
 AnchorPoint: "Above" 384 768 basechar 0
 LayerCount: 3
 Fore
 SplineSet
 128 -384 m 1
- 256 -384 l 1
- 256 -257 l 1
- 256 -128 l 1
- 256 0 l 1
- 384 0 l 1
- 512 0 l 1
- 512 128 l 1
- 384 128 l 1
- 256 128 l 1
- 256 256 l 1
- 256 384 l 1
- 256 512 l 1
- 256 640 l 1
  128 640 l 1
- 128 512 l 1
- 128 384 l 1
- 128 256 l 1
- 128 128 l 1
- 128 0 l 1
- 128 -128 l 1
- 128 -257 l 1
+ 256 640 l 1
+ 256 128 l 1
+ 512 128 l 1
+ 512 0 l 1
+ 256 0 l 1
+ 256 -384 l 1
  128 -384 l 1
 512 128 m 1
- 640 128 l 1
- 640 0 l 1
- 768 0 l 1
- 768 128 l 1
- 768 256 l 1
- 768 384 l 1
- 768 512 l 1
- 768 640 l 1
- 640 640 l 1
- 640 512 l 1
- 640 384 l 1
- 640 256 l 1
  512 256 l 1
+ 640 256 l 1
+ 640 640 l 1
+ 768 640 l 1
+ 768 256 l 1
+ 768 128 l 1
+ 768 0 l 1
+ 640 0 l 1
+ 640 128 l 1
  512 128 l 1
 EndSplineSet
 EndChar
 
 StartChar: ny
-Encoding: 24 60823 29
+Encoding: 60823 60823 28
 Width: 896
 VWidth: 1920
-Flags: W
+Flags: HW
 AnchorPoint: "Below" 384 -128 basechar 0
 AnchorPoint: "Above" 384 768 basechar 0
 LayerCount: 3
 Fore
 SplineSet
 128 512 m 1
- 256 512 l 1
- 384 512 l 1
- 512 512 l 1
- 512 384 l 1
- 640 384 l 1
- 640 512 l 1
- 640 640 l 1
- 512 640 l 1
- 384 640 l 1
- 256 640 l 1
  128 640 l 1
+ 512 640 l 1
+ 640 640 l 1
+ 640 512 l 1
+ 640 384 l 1
+ 512 384 l 1
+ 512 512 l 1
  128 512 l 1
 256 128 m 1
- 384 128 l 1
- 384 256 l 1
  256 256 l 1
+ 384 256 l 1
+ 384 128 l 1
  256 128 l 1
 384 0 m 1
- 512 0 l 1
- 640 0 l 1
- 640 128 l 1
- 512 128 l 1
  384 128 l 1
+ 640 128 l 1
+ 640 0 l 1
  384 0 l 1
 384 256 m 1
- 512 256 l 1
- 512 384 l 1
  384 384 l 1
+ 512 384 l 1
+ 512 256 l 1
  384 256 l 1
 640 128 m 1
- 768 128 l 1
- 768 256 l 1
  640 256 l 1
+ 768 256 l 1
+ 768 128 l 1
  640 128 l 1
 EndSplineSet
 EndChar
 
 StartChar: bahebu
-Encoding: 25 60824 30
+Encoding: 60824 60824 29
 Width: 0
 VWidth: 1920
 GlyphClass: 4
@@ -5963,99 +5537,83 @@ EndSplineSet
 EndChar
 
 StartChar: iy
-Encoding: 43 60842 31
+Encoding: 60842 60842 30
 Width: 896
 VWidth: 1920
-Flags: W
+Flags: HW
 AnchorPoint: "Below" 384 -128 basechar 0
 AnchorPoint: "Above" 384 768 basechar 0
 LayerCount: 3
 Fore
 SplineSet
 128 0 m 1
- 256 0 l 1
- 256 128 l 1
- 256 256 l 1
  128 256 l 1
- 128 128 l 1
+ 256 256 l 1
+ 256 0 l 1
  128 0 l 1
 256 256 m 1
- 384 256 l 1
- 384 384 l 1
- 384 512 l 1
  256 512 l 1
- 256 384 l 1
+ 384 512 l 1
+ 384 256 l 1
  256 256 l 1
 384 512 m 1
- 512 512 l 1
- 512 640 l 1
  384 640 l 1
+ 512 640 l 1
+ 512 512 l 1
  384 512 l 1
 512 256 m 1
- 640 256 l 1
- 640 384 l 1
- 640 512 l 1
  512 512 l 1
- 512 384 l 1
+ 640 512 l 1
+ 640 256 l 1
  512 256 l 1
 640 0 m 1
- 768 0 l 1
- 768 128 l 1
- 768 256 l 1
  640 256 l 1
- 640 128 l 1
+ 768 256 l 1
+ 768 0 l 1
  640 0 l 1
 EndSplineSet
 EndChar
 
 StartChar: uy
-Encoding: 44 60843 32
+Encoding: 60843 60843 31
 Width: 896
 VWidth: 1920
-Flags: W
+Flags: HW
 AnchorPoint: "Below" 384 -128 basechar 0
 AnchorPoint: "Above" 384 768 basechar 0
 LayerCount: 3
 Fore
 SplineSet
 128 384 m 1
- 256 384 l 1
- 256 512 l 1
- 256 640 l 1
  128 640 l 1
- 128 512 l 1
+ 256 640 l 1
+ 256 384 l 1
  128 384 l 1
 256 128 m 1
- 384 128 l 1
- 384 256 l 1
- 384 384 l 1
  256 384 l 1
- 256 256 l 1
+ 384 384 l 1
+ 384 128 l 1
  256 128 l 1
 384 0 m 1
- 512 0 l 1
- 512 128 l 1
  384 128 l 1
+ 512 128 l 1
+ 512 0 l 1
  384 0 l 1
 512 128 m 1
- 640 128 l 1
- 640 256 l 1
- 640 384 l 1
  512 384 l 1
- 512 256 l 1
+ 640 384 l 1
+ 640 128 l 1
  512 128 l 1
 640 384 m 1
- 768 384 l 1
- 768 512 l 1
- 768 640 l 1
  640 640 l 1
- 640 512 l 1
+ 768 640 l 1
+ 768 384 l 1
  640 384 l 1
 EndSplineSet
 EndChar
 
 StartChar: abu
-Encoding: 33 60832 33
+Encoding: 60832 60832 32
 Width: 0
 VWidth: 1920
 GlyphClass: 4
@@ -6080,7 +5638,7 @@ MultipleSubs2: "Multiple Substitution lookup 62 subtable" denpabu abu
 EndChar
 
 StartChar: ebu
-Encoding: 34 60833 34
+Encoding: 60833 60833 33
 Width: 0
 VWidth: 1920
 GlyphClass: 4
@@ -6105,7 +5663,7 @@ MultipleSubs2: "Multiple Substitution lookup 63 subtable" denpabu ebu
 EndChar
 
 StartChar: ibu
-Encoding: 35 60834 35
+Encoding: 60834 60834 34
 Width: 0
 VWidth: 1920
 GlyphClass: 4
@@ -6146,7 +5704,7 @@ Substitution2: "Single Substitution lookup 4 subtable" iy
 EndChar
 
 StartChar: obu
-Encoding: 36 60835 36
+Encoding: 60835 60835 35
 Width: 0
 VWidth: 1920
 GlyphClass: 4
@@ -6185,7 +5743,7 @@ MultipleSubs2: "Multiple Substitution lookup 65 subtable" denpabu obu
 EndChar
 
 StartChar: ubu
-Encoding: 37 60836 37
+Encoding: 60836 60836 36
 Width: 0
 VWidth: 1920
 GlyphClass: 4
@@ -6234,7 +5792,7 @@ Substitution2: "Single Substitution lookup 14 subtable" uy
 EndChar
 
 StartChar: ybu
-Encoding: 38 60837 38
+Encoding: 60837 60837 37
 Width: 0
 VWidth: 1920
 GlyphClass: 4
@@ -6268,7 +5826,7 @@ MultipleSubs2: "Multiple Substitution lookup 67 subtable" denpabu ybu
 EndChar
 
 StartChar: aibu
-Encoding: 39 60838 39
+Encoding: 60838 60838 38
 Width: 0
 VWidth: 1920
 GlyphClass: 4
@@ -6303,7 +5861,7 @@ LCarets2: 1 -512
 EndChar
 
 StartChar: eibu
-Encoding: 40 60839 40
+Encoding: 60839 60839 39
 Width: 0
 VWidth: 1920
 GlyphClass: 4
@@ -6334,7 +5892,7 @@ LCarets2: 1 -512
 EndChar
 
 StartChar: oibu
-Encoding: 41 60840 41
+Encoding: 60840 60840 40
 Width: 0
 VWidth: 1920
 GlyphClass: 4
@@ -6367,7 +5925,7 @@ LCarets2: 1 -512
 EndChar
 
 StartChar: aubu
-Encoding: 42 60841 42
+Encoding: 60841 60841 41
 Width: 0
 VWidth: 1920
 GlyphClass: 4
@@ -6398,7 +5956,7 @@ LCarets2: 1 -512
 EndChar
 
 StartChar: cnimahobu
-Encoding: 12 60811 43
+Encoding: 60811 60811 42
 Width: 768
 VWidth: 1920
 Flags: HW
@@ -6406,32 +5964,24 @@ LayerCount: 3
 Fore
 SplineSet
 128 256 m 1
- 256 256 l 1
- 384 256 l 1
- 384 384 l 1
- 256 384 l 1
  128 384 l 1
+ 384 384 l 1
+ 384 256 l 1
  128 256 l 1
 384 384 m 1
- 512 384 l 1
- 512 256 l 1
- 512 128 l 1
- 512 0 l 1
- 640 0 l 1
- 640 128 l 1
- 640 256 l 1
- 640 384 l 1
- 640 512 l 1
- 640 640 l 1
- 512 640 l 1
- 512 512 l 1
  384 512 l 1
+ 512 512 l 1
+ 512 640 l 1
+ 640 640 l 1
+ 640 0 l 1
+ 512 0 l 1
+ 512 384 l 1
  384 384 l 1
 EndSplineSet
 EndChar
 
 StartChar: abu.dot
-Encoding: 58 -1 44
+Encoding: 65536 -1 43
 Width: 512
 VWidth: 1920
 Flags: HW
@@ -6456,7 +6006,7 @@ EndSplineSet
 EndChar
 
 StartChar: ebu.dot
-Encoding: 59 -1 45
+Encoding: 65537 -1 44
 Width: 512
 VWidth: 1920
 Flags: HW
@@ -6481,7 +6031,7 @@ EndSplineSet
 EndChar
 
 StartChar: ibu.dot
-Encoding: 60 -1 46
+Encoding: 65538 -1 45
 Width: 512
 VWidth: 1920
 Flags: HW
@@ -6502,7 +6052,7 @@ EndSplineSet
 EndChar
 
 StartChar: obu.dot
-Encoding: 61 -1 47
+Encoding: 65539 -1 46
 Width: 512
 VWidth: 1920
 Flags: HW
@@ -6537,7 +6087,7 @@ EndSplineSet
 EndChar
 
 StartChar: ubu.dot
-Encoding: 62 -1 48
+Encoding: 65540 -1 47
 Width: 512
 VWidth: 1920
 Flags: HW
@@ -6566,7 +6116,7 @@ EndSplineSet
 EndChar
 
 StartChar: ybu.dot
-Encoding: 63 -1 49
+Encoding: 65541 -1 48
 Width: 512
 VWidth: 1920
 Flags: HW
@@ -6600,7 +6150,7 @@ EndSplineSet
 EndChar
 
 StartChar: aibu.dot
-Encoding: 64 -1 50
+Encoding: 65542 -1 49
 Width: 512
 VWidth: 1920
 Flags: HW
@@ -6634,7 +6184,7 @@ EndSplineSet
 EndChar
 
 StartChar: eibu.dot
-Encoding: 65 -1 51
+Encoding: 65543 -1 50
 Width: 512
 VWidth: 1920
 Flags: HW
@@ -6663,7 +6213,7 @@ EndSplineSet
 EndChar
 
 StartChar: oibu.dot
-Encoding: 66 -1 52
+Encoding: 65544 -1 51
 Width: 512
 VWidth: 1920
 Flags: HW
@@ -6695,7 +6245,7 @@ EndSplineSet
 EndChar
 
 StartChar: aubu.dot
-Encoding: 67 -1 53
+Encoding: 65545 -1 52
 Width: 512
 VWidth: 1920
 Flags: HW
@@ -6725,7 +6275,7 @@ EndSplineSet
 EndChar
 
 StartChar: denpabu.cas
-Encoding: 32 -1 54
+Encoding: 65546 -1 53
 Width: 384
 VWidth: 1920
 Flags: HW
@@ -6733,30 +6283,25 @@ LayerCount: 3
 Fore
 SplineSet
 513 511 m 1
- 641 511 l 1
- 641 639 l 1
  513 639 l 1
+ 641 639 l 1
+ 641 511 l 1
  513 511 l 1
 384 384 m 1
- 513 384 l 1
- 513 511 l 1
  384 511 l 1
+ 513 511 l 1
+ 513 384 l 1
  384 384 l 1
-256 256 m 1
- 384 256 l 1
- 384 384 l 1
- 256 384 l 1
- 256 256 l 1
 128 256 m 1
- 256 256 l 1
- 256 384 l 1
  128 384 l 1
+ 384 384 l 1
+ 384 256 l 1
  128 256 l 1
 EndSplineSet
 EndChar
 
 StartChar: slakabu
-Encoding: 27 60826 55
+Encoding: 60826 60826 54
 Width: 0
 VWidth: 0
 Flags: HW
@@ -6764,7 +6309,7 @@ LayerCount: 3
 EndChar
 
 StartChar: bahebu_bahebu
-Encoding: 56 -1 56
+Encoding: 65547 -1 55
 Width: 0
 VWidth: 1920
 Flags: W
@@ -6789,7 +6334,7 @@ LCarets2: 1 0
 EndChar
 
 StartChar: bahebu_bahebu_bahebu
-Encoding: 57 -1 57
+Encoding: 65548 -1 56
 Width: 1
 VWidth: 1920
 Flags: W
@@ -6818,22 +6363,18 @@ LCarets2: 2 0 0
 EndChar
 
 StartChar: smajibu
-Encoding: 26 60825 58
+Encoding: 60825 60825 57
 Width: 512
 VWidth: 1920
 Flags: HW
 LayerCount: 3
 Fore
 SplineSet
-0 255 m 1
- 128 255 l 1
- 256 255 l 1
- 384 255 l 1
- 384 383 l 1
- 256 383 l 1
- 128 383 l 1
- 0 383 l 1
- 0 255 l 1
+0 256 m 1
+ 0 384 l 1
+ 384 384 l 1
+ 384 256 l 1
+ 0 256 l 1
 EndSplineSet
 Substitution2: "Single Substitution lookup 60 subtable" smajibu.fina
 Substitution2: "Single Substitution lookup 59 subtable" smajibu.fina
@@ -6850,67 +6391,55 @@ Substitution2: "Single Substitution lookup 47 subtable" smajibu.init
 EndChar
 
 StartChar: smajibu.init
-Encoding: 29 -1 59
+Encoding: 65549 -1 58
 Width: 256
 VWidth: 1920
 Flags: HW
 LayerCount: 3
 Fore
 SplineSet
-0 255 m 1
- 128 255 l 1
- 256 255 l 1
- 384 255 l 1
- 384 383 l 1
- 256 383 l 1
- 128 383 l 1
- 0 383 l 1
- 0 255 l 1
+0 256 m 5
+ 0 384 l 5
+ 384 384 l 5
+ 384 256 l 5
+ 0 256 l 5
 EndSplineSet
 EndChar
 
 StartChar: smajibu.medi
-Encoding: 30 -1 60
+Encoding: 65550 -1 59
 Width: 640
 VWidth: 1920
 Flags: HW
 LayerCount: 3
 Fore
 SplineSet
-128 255 m 1
- 256 255 l 1
- 384 255 l 1
- 512 255 l 1
- 512 383 l 1
- 384 383 l 1
- 256 383 l 1
- 128 383 l 1
- 128 255 l 1
+128 256 m 5
+ 128 384 l 5
+ 512 384 l 5
+ 512 256 l 5
+ 128 256 l 5
 EndSplineSet
 EndChar
 
 StartChar: smajibu.fina
-Encoding: 31 -1 61
+Encoding: 65551 -1 60
 Width: 256
 VWidth: 1920
 Flags: HW
 LayerCount: 3
 Fore
 SplineSet
--127 255 m 1
- 0 255 l 1
- 129 255 l 1
- 256 255 l 1
- 256 383 l 1
- 129 383 l 1
- 0 383 l 1
- -127 383 l 1
- -127 255 l 1
+-128 256 m 1
+ -128 384 l 1
+ 256 384 l 1
+ 256 256 l 1
+ -128 256 l 1
 EndSplineSet
 EndChar
 
 StartChar: patonga
-Encoding: 13 60812 62
+Encoding: 60812 60812 61
 Width: 0
 VWidth: 1920
 Flags: W
@@ -6932,7 +6461,7 @@ EndSplineSet
 EndChar
 
 StartChar: retonga
-Encoding: 14 60813 63
+Encoding: 60813 60813 62
 Width: 0
 VWidth: 1920
 Flags: W
@@ -6954,7 +6483,7 @@ EndSplineSet
 EndChar
 
 StartChar: citonga
-Encoding: 15 60814 64
+Encoding: 60814 60814 63
 Width: 0
 VWidth: 1920
 Flags: HW
@@ -6981,7 +6510,7 @@ EndSplineSet
 EndChar
 
 StartChar: votonga
-Encoding: 16 60815 65
+Encoding: 60815 60815 64
 Width: 0
 VWidth: 1920
 Flags: W
@@ -7008,28 +6537,24 @@ EndSplineSet
 EndChar
 
 StartChar: tcenabu
-Encoding: 28 60827 66
+Encoding: 60827 60827 65
 Width: 0
 VWidth: 1920
-Flags: HWO
+Flags: HW
 AnchorPoint: "Below" -384 -128 mark 0
 LayerCount: 3
 Fore
 SplineSet
 -640 -255 m 1
- -384 -255 l 1
- -256 -255 l 1
- 0 -255 l 1
- 0 -128 l 1
- -256 -128 l 1
- -384 -128 l 1
  -640 -128 l 1
+ 0 -128 l 1
+ 0 -255 l 1
  -640 -255 l 1
 EndSplineSet
 EndChar
 
 StartChar: yhy.cas
-Encoding: 45 -1 67
+Encoding: 65552 -1 66
 Width: 512
 VWidth: 1920
 Flags: W
@@ -7039,23 +6564,15 @@ LayerCount: 3
 Fore
 SplineSet
 128 0 m 1
- 256 0 l 1
- 256 128 l 1
- 256 256 l 1
- 256 384 l 1
- 256 512 l 1
- 256 640 l 1
  128 640 l 1
- 128 512 l 1
- 128 384 l 1
- 128 256 l 1
- 128 128 l 1
+ 256 640 l 1
+ 256 0 l 1
  128 0 l 1
 EndSplineSet
 EndChar
 
 StartChar: fy_extended
-Encoding: 68 -1 68
+Encoding: 65553 -1 67
 Width: 768
 VWidth: 1920
 Flags: HW
@@ -7064,74 +6581,62 @@ LayerCount: 3
 Fore
 SplineSet
 128 128 m 1
- 256 128 l 1
- 256 256 l 1
  128 256 l 1
+ 256 256 l 1
+ 256 128 l 1
  128 128 l 1
 256 0 m 1
- 384 0 l 1
- 512 0 l 1
- 640 0 l 1
- 640 128 l 1
- 512 128 l 1
- 384 128 l 1
  256 128 l 1
+ 640 128 l 1
+ 640 0 l 1
  256 0 l 1
 256 256 m 1
- 384 256 l 1
- 384 384 l 1
  256 384 l 1
+ 384 384 l 1
+ 384 256 l 1
  256 256 l 1
 384 384 m 1
- 512 384 l 1
- 512 512 l 1
- 512 1024 l 1
  384 1024 l 1
- 384 512 l 1
+ 512 1024 l 1
+ 512 384 l 1
  384 384 l 1
 EndSplineSet
 EndChar
 
 StartChar: vy_extended
-Encoding: 69 -1 69
+Encoding: 65554 -1 68
 Width: 768
 VWidth: 1920
-Flags: W
+Flags: HW
 AnchorPoint: "Above" 256 768 basechar 0
 LayerCount: 3
 Fore
 SplineSet
 128 512 m 1
- 256 512 l 1
- 384 512 l 1
- 512 512 l 1
- 512 640 l 1
- 384 640 l 1
- 256 640 l 1
  128 640 l 1
+ 512 640 l 1
+ 512 512 l 1
  128 512 l 1
 256 -384 m 1
- 384 -384 l 1
- 384 128 l 1
- 384 256 l 1
  256 256 l 1
- 256 128 l 1
+ 384 256 l 1
+ 384 -384 l 1
  256 -384 l 1
 384 256 m 1
- 512 256 l 1
- 512 384 l 1
  384 384 l 1
+ 512 384 l 1
+ 512 256 l 1
  384 256 l 1
 512 384 m 1
- 640 384 l 1
- 640 512 l 1
  512 512 l 1
+ 640 512 l 1
+ 640 384 l 1
  512 384 l 1
 EndSplineSet
 EndChar
 
 StartChar: obu_shift
-Encoding: 70 -1 70
+Encoding: 65555 -1 69
 Width: 0
 VWidth: 1920
 Flags: HW
@@ -7158,6 +6663,39 @@ SplineSet
  -256 896 l 1
  -384 896 l 1
  -384 768 l 1
+EndSplineSet
+EndChar
+
+StartChar: zy
+Encoding: 60821 60821 70
+Width: 896
+VWidth: 1920
+Flags: HW
+AnchorPoint: "Above" 384 768 basechar 0
+AnchorPoint: "Below" 512 -128 basechar 0
+LayerCount: 3
+Fore
+SplineSet
+128 -384 m 1
+ 128 512 l 1
+ 256 512 l 1
+ 256 -384 l 1
+ 128 -384 l 1
+256 512 m 1
+ 256 640 l 1
+ 640 640 l 1
+ 640 512 l 1
+ 256 512 l 1
+384 0 m 1
+ 384 128 l 1
+ 640 128 l 1
+ 640 0 l 1
+ 384 0 l 1
+640 128 m 1
+ 640 512 l 1
+ 768 512 l 1
+ 768 128 l 1
+ 640 128 l 1
 EndSplineSet
 EndChar
 EndChars
